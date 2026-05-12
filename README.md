@@ -1,4 +1,4 @@
-# Run Selenium Tests With Codeception — TestMu AI (Formerly LambdaTest)
+# Run Selenium Tests With Codeception — TestMu AI (Formerly LambdaTest)
 
 ![image](https://user-images.githubusercontent.com/70570645/171664104-53b037da-d823-4326-b7fb-71034fea0040.png)
 
